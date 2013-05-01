@@ -6,7 +6,8 @@
   "shell-version": [
     "3.2", 
     "3.4", 
-    "3.6"
+    "3.6",
+    "3.8"
   ], 
   "url": "http://motorscript.com/gnome-shell-extension-cpu-temperature/", 
   "uuid": "temperature@xtranophilist"
